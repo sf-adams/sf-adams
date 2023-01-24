@@ -1,23 +1,31 @@
 ## Hi, I'm Sam 👋
 
+<!-- BADGES -->
+
 [![LinkedIn][linkedin-shield]][linkedin-url]
+[![Codewars][codewars-shield]][codewars-url]
 
-[linkedin-shield]: https://img.shields.io/badge/-Codewars-black.svg?style=for-the-badge&logo=codewars&colorB=555
-[linkedin-url]: https://linkedin.com/in/othneildrew
+<!-- Add BLOG -->
 
-<a href="https://www.linkedin.com/in/sf-adams/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
+<!-- [![Portfolio][portfolio-shield]][portfolio-url] -->
 
-<a href="https://www.codewars.com/users/sf-adams">
-  <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white">
-</a>
+<!-- [![Twitter][twitter-shield]][twitter-url]
+[![Medium][medium-shield]][medium-url]
+[![Dev][dev-shield]][dev-url]
+[![CodePen][codepen-shield]][codepen-url]
+[![GitHub][github-shield]][github-url]
+[![YouTube][youtube-shield]][youtube-url] -->
 
-I'm Sam. Currently working on tech for good projects at [GPM Digital](https://gpm.digital/), instructor at [Code First Girls](https://codefirstgirls.com/) and volunteer for [CoderDojo](https://coderdojo.com/en).
+<!-- ABOUT ME -->
 
-- 👩‍🎤 currently solving daily kata on Codewars.
+- 🚜 Frontend developer at [GPM Digital](https://gpm.digital/)
+- 👩‍💻 Instructor for [Code First Girls](https://codefirstgirls.com/)
+- 🚧 Running [notMyFirstCodeo](https://notmyfirstcodeo.com) for fun
+<!-- - 🚸 Volunteer for [CoderDojo](https://coderdojo.com/en) in Darlington, UK. -->
 
-![sf-adams GitHub stats](https://github-readme-stats.vercel.app/api?username=sf-adams&show_icons=true&theme=transparent)
+---
+
+![sf-adams GitHub stats](https://github-readme-stats.vercel.app/api?username=sf-adams&show_icons=true&bg_color=FFC92F&title_color=242424&text_color=242424&icon_color=242424&hide_border=true)
 
 <!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=sf-adams&currStreakNum=2FD3EB&fire=pink&sideLabels=F00)](https://git.io/streak-stats) -->
 
@@ -29,35 +37,16 @@ I'm Sam. Currently working on tech for good projects at [GPM Digital](https://gp
 
 See more at my [portfolio](https://sf-adams.com) -->
 
-<!-- ### Find me on -->
-
-<!-- <a href="https://www.linkedin.com/in/sf-adams/">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
-</a>
-
-<a href="https://www.linkedin.com/in/sf-adams/">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-</a>
-
-<a href="https://www.linkedin.com/in/sf-adams/">
-  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
-</a>
-
-<a href="https://www.linkedin.com/in/sf-adams/">
-  <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white">
-</a>
-
-<a href="https://www.linkedin.com/in/sf-adams/">
-  <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=codepen&logoColor=white">
-</a>
-
-<a href="https://www.linkedin.com/in/sf-adams/">
-  <img src="https://img.shields.io/badge/Devto-000000?style=for-the-badge&logo=codepen&logoColor=white">
-</a>
-
- -->
-
-<!-- ### Recent blog posts -->
+<!-- BLOG POSTS -->
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
+
+<!-- Markdown links -->
+
+[linkedin-shield]: https://img.shields.io/badge/LinkedIn-FFC92F?style=for-the-badge&logo=linkedin&logoColor=242424
+[linkedin-url]: https://linkedin.com/in/sf-adams
+[portfolio-shield]: https://img.shields.io/badge/Portfolio-FFC92F?style=for-the-badge&logo=aboutdotme&logoColor=242424
+[portfolio-url]: https://sf-adams.com
+[codewars-shield]: https://img.shields.io/badge/Codewars-FFC92F?style=for-the-badge&logo=Codewars&logoColor=242424
+[codewars-url]: https://www.codewars.com/users/sf-adams
