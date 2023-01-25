@@ -42,7 +42,7 @@ See more at my [portfolio](https://sf-adams.com) -->
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-<!-- Markdown links -->
+<!-- MARKDOWN LINKS -->
 
 [linkedin-shield]: https://img.shields.io/badge/LinkedIn-FFC92F?style=for-the-badge&logo=linkedin&logoColor=242424
 [linkedin-url]: https://linkedin.com/in/sf-adams
