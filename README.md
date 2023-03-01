@@ -1,11 +1,24 @@
 ## Hi, I'm Sam 👋
 
-<!-- BADGES -->
+<!-- ABOUT ME -->
+
+- 🚜 Frontend developer at [GPM Digital](https://gpm.digital/)
+- 👩‍💻 Instructor for [Code First Girls](https://codefirstgirls.com/)
+- 🚧 Running [notMyFirstCodeo](https://notmyfirstcodeo.com) for fun
+- 🚸 Volunteer for [CoderDojo](https://coderdojo.com/en) in Darlington, UK
+
+<!-- STATS -->
+
+<!-- ![sf-adams GitHub stats](https://github-readme-stats.vercel.app/api?username=sf-adams&show_icons=true&bg_color=FFD300&title_color=242424&text_color=242424&icon_color=FEA015&hide_border=true) -->
+
+![sf-adams GitHub stats](https://github-readme-stats.vercel.app/api?username=sf-adams&show_icons=true&bg_color=FFD300&title_color=242424&text_color=242424&icon_color=FEA015&border_color=27252A)
+
+---
+
+## Connect
 
 [![LinkedIn][linkedin-shield]][linkedin-url]
 [![Codewars][codewars-shield]][codewars-url]
-
-<!-- Add BLOG -->
 
 <!-- [![Portfolio][portfolio-shield]][portfolio-url] -->
 
@@ -15,27 +28,6 @@
 [![CodePen][codepen-shield]][codepen-url]
 [![GitHub][github-shield]][github-url]
 [![YouTube][youtube-shield]][youtube-url] -->
-
-<!-- ABOUT ME -->
-
-- 🚜 Frontend developer at [GPM Digital](https://gpm.digital/)
-- 👩‍💻 Instructor for [Code First Girls](https://codefirstgirls.com/)
-- 🚧 Running [notMyFirstCodeo](https://notmyfirstcodeo.com) for fun
-- 🚸 Volunteer for [CoderDojo](https://coderdojo.com/en) in Darlington, UK
-
----
-
-![sf-adams GitHub stats](https://github-readme-stats.vercel.app/api?username=sf-adams&show_icons=true&bg_color=FFD300&title_color=242424&text_color=242424&icon_color=242424&hide_border=true)
-
-<!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=sf-adams&currStreakNum=2FD3EB&fire=pink&sideLabels=F00)](https://git.io/streak-stats) -->
-
-<!-- ### Some personal projects
-
-- [Haikupad](http://agilix.netlify.app)
-- [Cruciverbalife](http://sprofile.herokuapp.app)
-- [Financial Freedom](http://twimage.vercel.app)
-
-See more at my [portfolio](https://sf-adams.com) -->
 
 <!-- BLOG POSTS -->
 
