@@ -17,5 +17,5 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
         # Change the below to the sources which you write your articles for
-        feed_list: "https://www.notmyfirstcodeo.com/rss"
+        feed_list: "https://www.notmyfirstcodeo.com/rss,https://dev.to/feed/gautamkrishnar"
         max_post_count: 3
