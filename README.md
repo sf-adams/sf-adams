@@ -17,18 +17,18 @@
 [![Dev][dev-shield]][dev-url]
 [![YouTube][youtube-shield]][youtube-url] -->
 
+---
+
+<!-- STATS -->
+
+![sf-adams GitHub stats](https://github-readme-stats.vercel.app/api?username=sf-adams&show_icons=true&bg_color=FFD300&title_color=27252A&text_color=27252A&icon_color=27252A&hide_border=true)
+
 <!-- BLOG POSTS -->
 
 ## 📒 &nbsp;Recent posts
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
-
----
-
-<!-- STATS -->
-
-![sf-adams GitHub stats](https://github-readme-stats.vercel.app/api?username=sf-adams&show_icons=true&bg_color=FFD300&title_color=27252A&text_color=27252A&icon_color=27252A&hide_border=true)
 
 <!-- MARKDOWN LINKS -->
 
