@@ -25,9 +25,34 @@
 
 <!-- BLOG POSTS -->
 
-## 📒 &nbsp;Recent posts
+### 📒 &nbsp;Recent posts
 
 <!-- BLOG-POST-LIST:START -->-[Mar 21, 2023 - Welcome to NMFC](https://notmyfirstcodeo.com/posts/welcome-to-nmfc/)-[Jan 30, 2023 - AstroPaper 2.0](https://notmyfirstcodeo.com/posts/astro-paper-2/)-[Dec 28, 2022 - Dynamic OG image generation in AstroPaper blog posts](https://notmyfirstcodeo.com/posts/dynamic-og-image-generation-in-astropaper-blog-posts/)<!-- BLOG-POST-LIST:END -->
+
+<br>
+<details>
+<summary>
+GitHub Stats
+</summary>
+
+<p align="center">
+<img width="450" align="center" src="https://github-readme-stats.vercel.app/api?username=sf-adams&show_icons=true&bg_color=FFD300&title_color=27252A&text_color=27252A&icon_color=27252A&hide_border=true" alt="Sam's Github Stats" />
+</p>
+  <p>
+
+  <a href="https://github.com/MartinHeinz/python-project-blueprint">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sf-adams&repo=javascript-challenges&title_color=27252A&text_color=27252A&icon_color=27252A&bg_color=FFD300&hide_border=true" />
+</a>
+    </p>
+  
+
+
+<!-- footer -->
+<div style="align-items:center;">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer&width=100"/>
+</div>
+</details>
+
 
 <!-- MARKDOWN LINKS -->
 
