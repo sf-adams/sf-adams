@@ -18,6 +18,4 @@ jobs:
         with:
           feed_list: "https://www.notmyfirstcodeo.com/rss.xml"
           max_post_count: 3
-          template: -[$date - $title]($url)
-          date_format: mediumDate
           
