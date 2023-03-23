@@ -1,9 +1,13 @@
+## Hi, I'm Sam 👋
+
 <!-- ABOUT ME -->
 
 - 🚜 &nbsp;Frontend developer at [GPM Digital](https://gpm.digital/)
 - 👩‍💻 &nbsp;Instructor for [Code First Girls](https://codefirstgirls.com/)
 - 🚧 &nbsp;Running [notMyFirstCodeo](https://notmyfirstcodeo.com) for fun
 - 🚸 &nbsp;Volunteer for [CoderDojo](https://coderdojo.com/en) in Darlington, UK
+
+<!-- SOCIAL -->
 
 [![LinkedIn][linkedin-shield]][linkedin-url]
 [![Codewars][codewars-shield]][codewars-url]
@@ -15,9 +19,14 @@
 [![Dev][dev-shield]][dev-url]
 [![YouTube][youtube-shield]][youtube-url] -->
 
+---
+<!-- STATS -->
+
+![sf-adams GitHub stats](https://github-readme-stats.vercel.app/api?username=sf-adams&show_icons=true&bg_color=FFD300&title_color=27252A&text_color=27252A&icon_color=27252A&hide_border=true)
+
 <!-- BLOG POSTS -->
 
-### 📒 &nbsp;Recent posts
+### Recent posts
 
 <!-- BLOG-POST-LIST:START -->
 - [Welcome to NMFC](https://notmyfirstcodeo.com/posts/welcome-to-nmfc/)
@@ -25,10 +34,9 @@
 - [Dynamic OG image generation in AstroPaper blog posts](https://notmyfirstcodeo.com/posts/dynamic-og-image-generation-in-astropaper-blog-posts/)
 <!-- BLOG-POST-LIST:END -->
 
----
-<!-- STATS -->
 
-![sf-adams GitHub stats](https://github-readme-stats.vercel.app/api?username=sf-adams&show_icons=true&bg_color=FFD300&title_color=27252A&text_color=27252A&icon_color=27252A&hide_border=true)
+
+
 
 
   <!-- <a href="https://github.com/MartinHeinz/python-project-blueprint">
