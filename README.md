@@ -30,8 +30,6 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Welcome to NMFC](https://notmyfirstcodeo.com/posts/welcome-to-nmfc/)
-- [AstroPaper 2.0](https://notmyfirstcodeo.com/posts/astro-paper-2/)
-- [Dynamic OG image generation in AstroPaper blog posts](https://notmyfirstcodeo.com/posts/dynamic-og-image-generation-in-astropaper-blog-posts/)
 <!-- BLOG-POST-LIST:END -->
 
 
