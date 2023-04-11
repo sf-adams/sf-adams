@@ -16,6 +16,5 @@ jobs:
       - name: Pull in nmfc posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://www.notmyfirstcodeo.com/rss.xml"
+          feed_list: "https://www.notmyfirstcodeo.com/rss.xml,https://medium.com/feed/@sf-adams"
           max_post_count: 3
-          
