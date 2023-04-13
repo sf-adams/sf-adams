@@ -17,7 +17,14 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://www.notmyfirstcodeo.com/rss.xml,https://medium.com/feed/@sf-adams"
-          feed_names: "Not My First Codeo, Medium"
+          feed_names: "Blog, Medium"
           max_post_count: 3
           tag_post_pre_newline: true
           template: "$newline - [$feedName: $title]($url)"
+          item_exec: |
+          if (post.feedName === "Blog") {
+            post.feedName = "🚧  " + post.feedName;
+          if (post.feedName === "Medium") {
+            post.feedName = "✏️  " + post.feedName;
+          }
+                |
