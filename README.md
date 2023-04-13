@@ -39,10 +39,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-- [Medium: Together, Apart: Working with Colleagues Across the World](https://medium.com/@sf-adams/together-apart-working-with-colleagues-across-the-world-7208fe35ac13?source=rss-6e1750a58761------2)
-- [Not My First Codeo: Welcome to NMFC](https://notmyfirstcodeo.com/posts/welcome-to-nmfc/)
-- [Medium: Code First Girls — 100,000 Students](https://medium.com/@sf-adams/code-first-girls-100-000-students-346badf4d756?source=rss-6e1750a58761------2)
-  <!-- BLOG-POST-LIST:END -->
+ - [Medium: Together, Apart: Working with Colleagues Across the World](https://medium.com/@sf-adams/together-apart-working-with-colleagues-across-the-world-7208fe35ac13?source=rss-6e1750a58761------2)
+ - [Blog: Welcome to NMFC](https://notmyfirstcodeo.com/posts/welcome-to-nmfc/)
+ - [Medium: Code First Girls — 100,000 Students](https://medium.com/@sf-adams/code-first-girls-100-000-students-346badf4d756?source=rss-6e1750a58761------2)
+<!-- BLOG-POST-LIST:END -->
 
     <!-- <a href="https://github.com/MartinHeinz/python-project-blueprint">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sf-adams&repo=javascript-challenges&title_color=27252A&text_color=27252A&icon_color=27252A&bg_color=FFD300&hide_border=true" />
