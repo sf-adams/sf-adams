@@ -44,10 +44,6 @@
  - [Medium: Code First Girls — 100,000 Students](https://medium.com/@sf-adams/code-first-girls-100-000-students-346badf4d756?source=rss-6e1750a58761------2)
 <!-- BLOG-POST-LIST:END -->
 
-    <!-- <a href="https://github.com/MartinHeinz/python-project-blueprint">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sf-adams&repo=javascript-challenges&title_color=27252A&text_color=27252A&icon_color=27252A&bg_color=FFD300&hide_border=true" />
-    </a> -->
-
 <!-- footer -->
 <div style="align-items:center;">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=FFD300&height=60&section=footer&width=100"/>
