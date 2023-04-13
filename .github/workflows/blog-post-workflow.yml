@@ -22,9 +22,9 @@ jobs:
           tag_post_pre_newline: true
           template: "$newline - [$feedName: $title]($url)"
           item_exec: |
-          if (post.feedName.includes("Blog")) {
-            post.feedName = "🚧  " + post.feedName;
-          if (post.feedName.includes("Medium")) {
-            post.feedName = "✏️  " + post.feedName;
-          }
+            if (post.feedName.includes("Blog")) {
+              post.feedName = "🚧  " + post.feedName;
+            if (post.feedName.includes("Medium")) {
+              post.feedName = "✏️  " + post.feedName;
+            }
                 |
