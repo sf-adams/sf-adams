@@ -9,15 +9,19 @@
 
 <!-- SOCIAL -->
 
-[![LinkedIn][linkedin-shield]][linkedin-url]
-[![Codewars][codewars-shield]][codewars-url]
 [![Portfolio][portfolio-shield]][portfolio-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
+[![Medium][medium-shield]][medium-url]
 [![FreeCodeCamp][freecodecamp-shield]][freecodecamp-url]
 
-<!-- [![Twitter][twitter-shield]][twitter-url]
-[![Medium][medium-shield]][medium-url]
-[![Dev.to][dev-shield]][dev-url]
+<!--
+Potentials:
+[![Twitter][twitter-shield]][twitter-url]
 [![YouTube][youtube-shield]][youtube-url]
+[![CodePen][codepen-shield]][codepen-url]
+
+Less Likely:
+[![Dev.to][dev-shield]][dev-url]
 [![Ghost][ghost-shield]][ghost-url]
 [![Hashnode][hashnode-shield]][hashnode-url]
 [![RSS][rss-shield]][rss-url]
@@ -25,6 +29,7 @@
 [![Hackernoon][hackernoon-shield]][hackernoon-url]
 [![Leetcode][leetcode-shield]][leetcode-url]
 [![Hackerrank][hackerrank-shield]][hackerrank-url]
+[![Codewars][codewars-shield]][codewars-url]
 -->
 
 ---
@@ -39,9 +44,9 @@
 
 <!-- BLOG-POST-LIST:START -->
 
- - [Medium: The Power of Habits for Developers](https://medium.com/@sf-adams/the-power-of-habits-for-developers-a8deda2e4ce3?source=rss-6e1750a58761------2)
- - [Medium: Together, Apart: Working with Colleagues Across the World](https://medium.com/@sf-adams/together-apart-working-with-colleagues-across-the-world-7208fe35ac13?source=rss-6e1750a58761------2)
- - [Blog: Welcome to NMFC](https://notmyfirstcodeo.com/posts/welcome-to-nmfc/)
+- [Medium: The Power of Habits for Developers](https://medium.com/@sf-adams/the-power-of-habits-for-developers-a8deda2e4ce3?source=rss-6e1750a58761------2)
+- [Medium: Together, Apart: Working with Colleagues Across the World](https://medium.com/@sf-adams/together-apart-working-with-colleagues-across-the-world-7208fe35ac13?source=rss-6e1750a58761------2)
+- [Blog: Welcome to NMFC](https://notmyfirstcodeo.com/posts/welcome-to-nmfc/)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- footer -->
@@ -51,11 +56,11 @@
 
 <!-- MARKDOWN LINKS -->
 
-[linkedin-shield]: https://img.shields.io/badge/LinkedIn-FFD300?style=for-the-badge&logo=linkedin&logoColor=242424
-[linkedin-url]: https://linkedin.com/in/sf-adams
-[codewars-shield]: https://img.shields.io/badge/Codewars-FFD300?style=for-the-badge&logo=Codewars&logoColor=242424
-[codewars-url]: https://www.codewars.com/users/sf-adams
 [portfolio-shield]: https://img.shields.io/badge/Portfolio-FFD300?style=for-the-badge&logo=aboutdotme&logoColor=242424
 [portfolio-url]: https://sf-adams.com
+[linkedin-shield]: https://img.shields.io/badge/LinkedIn-FFD300?style=for-the-badge&logo=linkedin&logoColor=242424
+[linkedin-url]: https://linkedin.com/in/sf-adams
+[medium-shield]: https://img.shields.io/badge/Medium-FFD300?style=for-the-badge&logo=medium&logoColor=242424
+[medium-url]: https://medium.com/@sf-adams
 [freecodecamp-shield]: https://img.shields.io/badge/Freecodecamp-FFD300.svg?&style=for-the-badge&logo=freecodecamp&logoColor=242424
 [freecodecamp-url]: https://forum.freecodecamp.org/u/sf-adams/summary
