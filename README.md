@@ -39,9 +39,9 @@
 
 <!-- BLOG-POST-LIST:START -->
 
+ - [Medium: The Power of Habits for Developers](https://medium.com/@sf-adams/the-power-of-habits-for-developers-a8deda2e4ce3?source=rss-6e1750a58761------2)
  - [Medium: Together, Apart: Working with Colleagues Across the World](https://medium.com/@sf-adams/together-apart-working-with-colleagues-across-the-world-7208fe35ac13?source=rss-6e1750a58761------2)
  - [Blog: Welcome to NMFC](https://notmyfirstcodeo.com/posts/welcome-to-nmfc/)
- - [Medium: Code First Girls — 100,000 Students](https://medium.com/@sf-adams/code-first-girls-100-000-students-346badf4d756?source=rss-6e1750a58761------2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- footer -->
