@@ -12,6 +12,7 @@
 [![Portfolio][portfolio-shield]][portfolio-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 [![Medium][medium-shield]][medium-url]
+[![Codepen][codepen-shield]][codepen-url]
 [![FreeCodeCamp][freecodecamp-shield]][freecodecamp-url]
 
 <!--
@@ -62,5 +63,7 @@ Less Likely:
 [linkedin-url]: https://linkedin.com/in/sf-adams
 [medium-shield]: https://img.shields.io/badge/Medium-FFD300?style=for-the-badge&logo=medium&logoColor=242424
 [medium-url]: https://medium.com/@sf-adams
+[codepen-shield]: https://img.shields.io/badge/CodePen-FFD300?style=for-the-badge&logo=codepen&logoColor=242424
+[codepen-url]: https://medium.com/@sf-adams
 [freecodecamp-shield]: https://img.shields.io/badge/Freecodecamp-FFD300.svg?&style=for-the-badge&logo=freecodecamp&logoColor=242424
 [freecodecamp-url]: https://forum.freecodecamp.org/u/sf-adams/summary
