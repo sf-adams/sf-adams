@@ -44,10 +44,11 @@ Less Likely:
 ### Recent posts
 
 <!-- BLOG-POST-LIST:START -->
-
- - [Medium: Open Mac Terminal with a Single Keyboard Shortcut](https://medium.com/@sf-adams/open-mac-terminal-with-a-single-keyboard-shortcut-9d7a370d9584?source=rss-6e1750a58761------2)
- - [Medium: Add 100 Languages to Your Website in 5 Minutes](https://medium.com/@sf-adams/add-100-languages-to-your-website-in-5-minutes-7bdd0f3d534a?source=rss-6e1750a58761------2)
- - [Medium: The Power of Habits for Developers](https://medium.com/@sf-adams/the-power-of-habits-for-developers-a8deda2e4ce3?source=rss-6e1750a58761------2)
+- [Open Mac Terminal with a Single Keyboard Shortcut](https://medium.com/@sf-adams/open-mac-terminal-with-a-single-keyboard-shortcut-9d7a370d9584?source=rss-6e1750a58761------2)
+- [Add 100 Languages to Your Website in 5 Minutes](https://medium.com/@sf-adams/add-100-languages-to-your-website-in-5-minutes-7bdd0f3d534a?source=rss-6e1750a58761------2)
+- [The Power of Habits for Developers](https://medium.com/@sf-adams/the-power-of-habits-for-developers-a8deda2e4ce3?source=rss-6e1750a58761------2)
+- [Together, Apart: Working with Colleagues Across the World](https://medium.com/@sf-adams/together-apart-working-with-colleagues-across-the-world-7208fe35ac13?source=rss-6e1750a58761------2)
+- [Welcome to NMFC](https://notmyfirstcodeo.com/posts/welcome-to-nmfc/)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- footer -->
