@@ -44,11 +44,11 @@ Less Likely:
 ### Recent posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Template Literals: Practical Examples](https://javascript.plainenglish.io/template-literals-practical-examples-561d03ab9774?source=rss-6e1750a58761------2)
 - [Learn Terminal Commands While Making Your New Project](https://medium.com/@sf-adams/learn-terminal-commands-while-making-your-new-project-7bdca7d8e610?source=rss-6e1750a58761------2)
 - [How Would ChatGPT Wish the Bard a Happy Birthday](https://medium.com/@sf-adams/how-would-chatgpt-wish-the-bard-a-happy-birthday-ac900979e5b2?source=rss-6e1750a58761------2)
 - [Modernise Your GitHub Repo With a Light and Dark Logo](https://medium.com/@sf-adams/modernise-your-github-repo-with-a-light-and-dark-logo-3bc327a57ee6?source=rss-6e1750a58761------2)
 - [Open Mac Terminal with a Single Keyboard Shortcut](https://medium.com/@sf-adams/open-mac-terminal-with-a-single-keyboard-shortcut-9d7a370d9584?source=rss-6e1750a58761------2)
-- [Add 100 Languages to Your Website in 5 Minutes](https://medium.com/@sf-adams/add-100-languages-to-your-website-in-5-minutes-7bdd0f3d534a?source=rss-6e1750a58761------2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- footer -->
