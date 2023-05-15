@@ -65,6 +65,6 @@ Less Likely:
 [medium-shield]: https://img.shields.io/badge/Medium-FFD300?style=for-the-badge&logo=medium&logoColor=242424
 [medium-url]: https://medium.com/@sf-adams
 [codepen-shield]: https://img.shields.io/badge/CodePen-FFD300?style=for-the-badge&logo=codepen&logoColor=242424
-[codepen-url]: https://medium.com/@sf-adams
+[codepen-url]: https://codepen.io/sf-adams
 [freecodecamp-shield]: https://img.shields.io/badge/Freecodecamp-FFD300.svg?&style=for-the-badge&logo=freecodecamp&logoColor=242424
 [freecodecamp-url]: https://forum.freecodecamp.org/u/sf-adams/summary
