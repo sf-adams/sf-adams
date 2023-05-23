@@ -13,13 +13,12 @@
 [![LinkedIn][linkedin-shield]][linkedin-url]
 [![Medium][medium-shield]][medium-url]
 [![Codepen][codepen-shield]][codepen-url]
-[![FreeCodeCamp][freecodecamp-shield]][freecodecamp-url]
 
 <!--
 Potentials:
+[![FreeCodeCamp][freecodecamp-shield]][freecodecamp-url]
 [![Twitter][twitter-shield]][twitter-url]
 [![YouTube][youtube-shield]][youtube-url]
-[![CodePen][codepen-shield]][codepen-url]
 
 Less Likely:
 [![Dev.to][dev-shield]][dev-url]
