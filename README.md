@@ -43,7 +43,6 @@ Less Likely:
 ### Recent posts
 
 <!-- BLOG-POST-LIST:START -->
-
 - [Domains and Subdomains: www to .com and Everything In Between](https://medium.com/@sf-adams/domains-and-subdomains-www-to-com-and-everything-in-between-80ce1cdfe4fc?source=rss-6e1750a58761------2)
 - [Template Literals: Practical Examples](https://javascript.plainenglish.io/template-literals-practical-examples-561d03ab9774?source=rss-6e1750a58761------2)
 - [Learn Terminal Commands While Making Your New Project](https://medium.com/@sf-adams/learn-terminal-commands-while-making-your-new-project-7bdca7d8e610?source=rss-6e1750a58761------2)
