@@ -4,7 +4,7 @@
 
 - 🚜 &nbsp;Frontend developer at [GPM Digital](https://gpm.digital/)
 - 👩‍💻 &nbsp;Instructor for [Code First Girls](https://codefirstgirls.com/)
-- 🚧 &nbsp;Learning by doing at [Not My First Codeo](https://notmyfirstcodeo.com)
+<!-- - 🚧 &nbsp;Learning by doing at [Not My First Codeo](https://notmyfirstcodeo.com) -->
 - 🚸 &nbsp;Volunteer for [CoderDojo](https://coderdojo.com/en) in the UK
 
 <!-- SOCIAL -->
