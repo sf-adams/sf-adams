@@ -1,0 +1,211 @@
+%-------------------------
+% Resume in Latex
+% Author : Sam
+% Based on: https://github.com/jakegut/resume (which was based on https://github.com/sb2nov/resume)
+% License : MIT
+%------------------------
+
+\documentclass[letterpaper,11pt]{article}
+
+\usepackage{latexsym}
+\usepackage[empty]{fullpage}
+\usepackage{titlesec}
+\usepackage{marvosym}
+\usepackage[usenames,dvipsnames]{color}
+\usepackage{verbatim}
+\usepackage{enumitem}
+\usepackage[hidelinks]{hyperref}
+\usepackage{fancyhdr}
+\usepackage[english]{babel}
+\usepackage{tabularx}
+\usepackage{xcolor}
+\usepackage{fontawesome5}
+
+\input{glyphtounicode}
+
+% -------------------- FONT --------------------
+\pagestyle{fancy}
+\fancyhf{} % clear all header and footer fields
+\fancyfoot{}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+
+% Adjust margins
+\addtolength{\oddsidemargin}{-0.5in}
+\addtolength{\evensidemargin}{-0.5in}
+\addtolength{\textwidth}{1in}
+\addtolength{\topmargin}{-.5in} % Default was -.5in
+\addtolength{\textheight}{1.0in}
+
+\urlstyle{same}
+
+\raggedbottom
+\raggedright
+\setlength{\tabcolsep}{0in}
+
+% Section formatting
+\titleformat{\section}{
+  \vspace{-5pt}\scshape\raggedright\large
+}{}{0em}{}[\color{black}\titlerule \vspace{-5pt}]
+
+% Subsection formatting
+\titleformat{\subsection}{
+  \vspace{-4pt}\scshape\raggedright\large
+}{\hspace{-.15in}}{0em}{}[\color{black}\vspace{-8pt}]
+
+% Ensure that generate pdf is machine readable/ATS parsable
+\pdfgentounicode=1
+
+% -------------------- CUSTOM COMMANDS --------------------
+\newcommand{\resumeItem}[1]{
+  \item\small{
+    {#1 \vspace{-2pt}}
+  }
+}
+
+\newcommand{\resumeSubheading}[4]{
+  \vspace{-2pt}\item
+    \begin{tabular*}{0.97\textwidth}[t]{l@{\extracolsep{\fill}}r}
+      \textbf{#1} & #2 \\
+      \textit{\small#3} & \textit{\small #4} \\
+    \end{tabular*}\vspace{-7pt}
+}
+
+\newcommand{\resumeSubSubheading}[2]{
+    \item
+    \begin{tabular*}{0.97\textwidth}{l@{\extracolsep{\fill}}r}
+      \textit{\small#1} & \textit{\small #2} \\
+    \end{tabular*}\vspace{-7pt}
+}
+
+\newcommand{\resumeProjectHeading}[2]{
+    \item
+    \begin{tabular*}{0.97\textwidth}{l@{\extracolsep{\fill}}r}
+      \small#1 & #2 \\
+    \end{tabular*}\vspace{-7pt}
+}
+
+\newcommand{\resumeSubItem}[1]{\resumeItem{#1}\vspace{-4pt}}
+\newcommand{\resumeSubHeadingListStart}{\begin{itemize}[leftmargin=0.15in, label={}]}
+\newcommand{\resumeSubHeadingListEnd}{\end{itemize}}
+\newcommand{\resumeItemListStart}{\begin{itemize}}
+\newcommand{\resumeItemListEnd}{\end{itemize}\vspace{-5pt}}
+
+\renewcommand\labelitemii{$\vcenter{\hbox{\tiny$\bullet$}}$}
+
+\setlength{\footskip}{4.08003pt}
+
+% -------------------- START OF DOCUMENT --------------------
+\begin{document}
+
+% -------------------- HEADING--------------------
+\begin{center}
+    \textbf{\Huge \scshape Sam Adams} \\ \vspace{8pt}
+    \small 
+    \faIcon{github}
+    \href{https://github.com/sf-adams/}{\underline{sf-adams}} $  $
+    \faIcon{code}
+    \href{https://sf-adams.com/}
+    {\underline{sf-adams.com}} $  $
+    \faIcon{linkedin}
+    \href{https://www.linkedin.com/in/sf-adams/}{\underline{sf-adams}} $  $
+    \faIcon{envelope}
+    \href{mailto:contact@sf-adams.com}
+    {\underline{contact@sf-adams.com}}
+\end{center}
+
+% -------------------- EXPERIENCE --------------------
+\section{Experience}
+    \resumeSubHeadingListStart
+    
+        \resumeProjectHeading
+        {\textbf{Code First Girls} $|$ \emph{Lead Instructor - Python \& Web Development}}{February 2022 -- Present}
+        \resumeItemListStart
+            \resumeItem{\textbf{Lead Instructing:} Taught over 200 students in six cohorts. Currently teaching Introduction to JavaScript, where students go from zero to building full Vanilla JS projects in just eight weeks. As a lead instructor, I teach classes, mentor the Assistant and Trainee instructors, as well as provide feedback to course coordinators.}
+            \resumeItem{\textbf{Python Instructing:} Volunteer instructor for 24 weeks of Python instruction for Code First Girls first global cohort. Taught 42 students from 11 time zones, with over half of the students presenting a full final application.}
+        \resumeItemListEnd
+          
+        \resumeProjectHeading
+        {\textbf{GPM Digital} $|$ \emph{Junior Front End Developer}}{April 2022 -- July 2023}
+        \resumeItemListStart
+            \resumeItem{\textbf{Fairtrade International \emph{Risk Map}} $|$ \emph{\href{https://riskmap.fairtrade.net/}{https://riskmap.fairtrade.net/}}
+            \\Figma was used to build components, Sanity.io for the CMS and the main site was built with Next.js. Libraries included Framer Motion, Vanilla Extract CSS \& Algolia. Writing social media posts, communicating with client and deploying the project.}
+            \resumeItem{\textbf{SMA Europe \emph{OdySMA}}} $|$ \emph{\href{https://odysma.sma-europe.eu}{https://odysma.sma-europe.eu}}
+            \\Assisting the design team in Figma, leading the CMS creation using Strapi CMS. Using Mailchimp API for Interactive Mapping and React Aria for accessibility. Mentoring a new colleague, with paired programming and writing documentation.
+        \resumeItemListEnd
+          
+    \resumeSubHeadingListEnd
+
+% -------------------- PROJECTS --------------------
+\section{Projects}
+    \resumeSubHeadingListStart
+    
+        \resumeProjectHeading
+        {\textbf{Code First Girls} $|$ \emph{Lead Instructor - Python \& Web Development}}{February 2022 -- Present}
+        \resumeItemListStart
+            \resumeItem{Taught over 200 students in six cohorts. Currently teaching Introduction to JavaScript, where students go from zero to building full Vanilla JS projects in just eight weeks. As a lead instructor, I teach classes, mentor the Assistant and Trainee instructors, as well as provide feedback to course coordinators.}
+            \resumeItem{Python Instructing: Volunteer instructor for 24 weeks of Python instruction for Code First Girls first global cohort. Taught 42 students from 11 time zones, with over half of the students presenting a full final application.s}
+        \resumeItemListEnd
+          
+        \resumeProjectHeading
+        {\textbf{FoodDropper} $|$ \emph{Java, Maven, Spigot API, Git, IntelliJ IDEA}}{August 2022}
+        \resumeItemListStart
+            \resumeItem{Developed a Minecraft server plugin to limit players to one way of replenishing their hunger bar}
+            % \resumeItem{Created intended behavior by making logic complying to the extensive Spigot API in Java}
+            \resumeItem{Used persistent data containers to save and load data, ensuring that it persists across plugin resets}
+            \resumeItem{Optimized UX (User Experience) e.g. prioritized sound design, timing of food drops, supplied saturation level, and had to address many potential workarounds in the numerous ways of destroying the food dropper}
+            % \resumeItem{Published to GitHub and spigotmc.org}
+        \resumeItemListEnd
+          
+    \resumeSubHeadingListEnd
+
+% -------------------- COMMUNITY --------------------
+\section{Community}
+    \resumeSubHeadingListStart
+    
+        \resumeProjectHeading
+        {\textbf{CoderDojo} $|$ \emph{Mentor}}{January 2023 -- Present}
+        \resumeItemListStart
+            \resumeItem{\textbf{Teaching \& Support:} 24 young people from ages 7-17 attend the CoderDojo in Darlington. Mentors are responsible for assisting with challenges, from using Block Coding tools to writing code for Web Development and Python projects.}
+        \resumeItemListEnd
+    
+        \resumeProjectHeading
+        {\textbf{Scottish Tech Army} $|$ \emph{Design and Development Volunteer}}{January 2022 -- Present}
+        \resumeItemListStart
+            \resumeItem{\textbf{NHS A\&E Inventory App:} Working in a team of seven to create a mobile application for the Resuscitation Department at The Royal Infirmary in Edinburgh. Involved with the research, wireframes, designs and build of the project. Implementation of the project began in July 2023.}
+        \resumeItemListEnd
+          
+    \resumeSubHeadingListEnd
+
+% -------------------- EDUCATION --------------------
+\section{Education}
+  \resumeSubHeadingListStart
+
+    \resumeProjectHeading
+        {\textbf{CodeClan} $|$ \emph{16-Week Software Development Course}}{October 2021 -- February 2022}
+
+    \resumeProjectHeading
+        {\textbf{University of Edinburgh} $|$ \emph{Master of Arts in Chinese and Economics}}{September 2015 -- June 2019}
+                \resumeItemListStart
+            \resumeItem{\textbf{Award:} Second Class, Division One - 2:1}
+            \resumeItem{\textbf{Fudan University, Shanghai:} Intensive Language Course (2017 - 2018)}
+        \resumeItemListEnd
+  \resumeSubHeadingListEnd
+
+% -------------------- SKILLS --------------------
+\section{Skills}
+ \begin{itemize}[leftmargin=0.15in, label={}]
+    \small{\item{
+    
+     \textbf{Languages}{: JavaScript, TypeScript, React, Next.js, HTML/CSS, Markdown} \\
+     
+     \textbf{Tools}{: Git/GitHub, VS Code, Figma, Jira, Trello, Vite, Webpack, Jest, Testing Library, Cypress}
+     
+     % \textbf{Frameworks}{: React, Node.js, Flask, JUnit, WordPress, Material-UI, FastAPI} \\
+     
+     % \textbf{Libraries}{: pandas, NumPy, Matplotlib}
+     
+    }}
+ \end{itemize}
+
+\end{document}
