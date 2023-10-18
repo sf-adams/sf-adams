@@ -1,5 +1,12 @@
 ## Hi, I'm Sam 👋
 
+<!-- SOCIAL -->
+
+[![Portfolio][portfolio-shield]][portfolio-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
+[![Medium][medium-shield]][medium-url]
+[![YouTube][youtube-shield]][youtube-url]
+
 <!-- ABOUT ME -->
 
 - 🚜 &nbsp;Frontend developer at [GPM Digital](https://gpm.digital/)
@@ -7,12 +14,6 @@
 - 🚸 &nbsp;Volunteer for [CoderDojo](https://coderdojo.com/en) in the UK
 <!-- - 🚧 &nbsp;Learning by doing at [Not My First Codeo](https://notmyfirstcodeo.com) -->
 
-<!-- SOCIAL -->
-
-[![Portfolio][portfolio-shield]][portfolio-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
-[![Medium][medium-shield]][medium-url]
-[![YouTube][youtube-shield]][youtube-url]
 
 <!-- footer -->
 <div style="align-items:center;">
