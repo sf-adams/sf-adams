@@ -9,7 +9,7 @@
 
 <!-- ABOUT ME -->
 
-- 🚜 &nbsp;Frontend developer at [GPM Digital](https://gpm.digital/)
+- 🚜 &nbsp;Software developer at [Edenbridge Healthcare](https://www.edenbridgehealthcare.com/home)
 - 👩‍💻 &nbsp;Instructor for [Code First Girls](https://codefirstgirls.com/)
 - 🚸 &nbsp;Volunteer for [CoderDojo](https://coderdojo.com/en) in the UK
 <!-- - 🚧 &nbsp;Learning by doing at [Not My First Codeo](https://notmyfirstcodeo.com) -->
